@@ -32,10 +32,10 @@ Contributions to this project are welcome and encouraged! If you find a bug or w
 
 ## Acknowledgments
 
-This project was inspired by the Road Side Coder  available on youtube, and was built as a learning exercise in full-stack web development.
+This project was inspired by the Road Side Coder, available on youtube, and was built as a learning exercise in frontend web development.
 Here his channels' link
-https://www.youtube.com/watch?v=dg7XmuLvsbs&t=5s
+https://www.youtube.com/watch?v=dg7XmuLvsbs&t=5s 
 go check him out he is great
 
-Also here is Codesandbox link of the project that i created 
+Also here is Codesandbox link of the project that i created  
 https://codesandbox.io/s/advance-quiz-app-dopkyk
