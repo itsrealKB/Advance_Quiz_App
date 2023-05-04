@@ -19,7 +19,9 @@ Welcome to the Advanced Quiz App repository! This repository contains the code f
 ## Technologies Used
 
 - React: a JavaScript library for building user interfaces.
-- Node.js: a JavaScript runtime built on Chrome's V8 JavaScript engine.
+- Node.js: a JavaScript runtime built on Chrome's V8 JavaScript engine.  
+- Open Trivia API : from fetch the questions data.   
+
 - React-router-dom: a popular routing library for React applications that allows developers to define routes and handle navigation between them. It simplifies the                           process of creating client-side routing logic and enables developers to build single-page applications with multiple views and user-friendly                           URLs. The library is built on top of react-router and provides a set of routing components that are easy to use and highly customizable.
 
 - Material Ui: a popular React UI library that provides a set of pre-built components and styling options based on Google's Material Design guidelines. It simplifies                  the process of building user interfaces in React by providing a consistent design system and a wide range of components such as buttons, forms, icons,                  and more. Material-UI's components are highly customizable, allowing developers to easily modify the look and feel of their applications. It also                      provides features such as theming, responsive design, and accessibility, making it a powerful and versatile UI library for building web applications.
