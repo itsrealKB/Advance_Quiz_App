@@ -20,7 +20,7 @@ Welcome to the Advanced Quiz App repository! This repository contains the code f
 
 - React: a JavaScript library for building user interfaces.
 - Node.js: a JavaScript runtime built on Chrome's V8 JavaScript engine.  
-- Open Trivia API : from fetch the questions data.   
+- Open Trivia API : from we fetch the questions data.   
 
 - React-router-dom: a popular routing library for React applications that allows developers to define routes and handle navigation between them. It simplifies the                           process of creating client-side routing logic and enables developers to build single-page applications with multiple views and user-friendly                           URLs. The library is built on top of react-router and provides a set of routing components that are easy to use and highly customizable.
 
